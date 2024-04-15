@@ -1,0 +1,12 @@
+# github.com/jackc/pgio v1.0.0
+## explicit; go 1.12
+# github.com/jackc/pgtype v1.8.1
+## explicit; go 1.13
+# github.com/jeroenrinzema/psql-wire v0.9.0
+## explicit; go 1.21
+github.com/jeroenrinzema/psql-wire/codes
+github.com/jeroenrinzema/psql-wire/errors
+github.com/jeroenrinzema/psql-wire/pkg/buffer
+github.com/jeroenrinzema/psql-wire/pkg/types
+# github.com/lib/pq v1.10.9
+## explicit; go 1.13
